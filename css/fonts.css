@@ -1,0 +1,13 @@
+@font-face { 
+    font-family: 'Neutral Face', sans-serif;
+    src: url("../font/NeutralFace.otf") format("truetype") ;
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face { 
+    font-family: 'NeutralFaceBold', sans-serif;
+    src: url("../font/NeutralFaceBold.otf") format("truetype") ;
+    font-style: bold;
+    font-weight: 700;
+}
